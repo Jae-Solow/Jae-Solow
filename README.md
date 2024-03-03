@@ -3,7 +3,7 @@
 <picture> 
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jae-Solow/Jae-Solow/blob/main/Jimmy%20neg.JPG">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jae-Solow/Jae-Solow/blob/main/PNG%20image.png">
- <img alt="Matrix Solow" src="[YOUR-DEFAULT-IMAGE](https://github.com/Jae-Solow/Jae-Solow/blob/main/Matrix_Solow.PNG)">
+ <img alt="Matrix Solow" src="https://github.com/Jae-Solow/Jae-Solow/blob/main/Matrix_Solow.PNG">
 </picture>
 
 
