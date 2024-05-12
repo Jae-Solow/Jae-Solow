@@ -7,9 +7,10 @@
  <img alt="Matrix Solow" src="https://github.com/Jae-Solow/Jae-Solow/blob/main/Matrix_Solow.PNG">
 </picture>
 -->
+<!--I want to make this page look nicer and add a counter to show how many people have visited my page-->
 
 ## about me
-Hey there, The name is Jae. I am currently in school for mobile app dev.
+Hey there, The name is Jae. I am currently in school for mobile app dev. In my spare time though, I am learning network architecture and command line. My goal is to either be part of or run a DevOps team some day.
 
 <details>
 <summary>My Top Languages</summary>
@@ -26,13 +27,8 @@ Hey there, The name is Jae. I am currently in school for mobile app dev.
 >It's not about what happens, it's about how you handle it
 - Jae
 ---
-- 🔭 I’m currently working on: learning some Markdown and JavaScript
-- 🌱 I’m currently learning: C++, Swift, and Python
-- 👯 I’m looking to collaborate on: Anything small to get my feet wet and to gain a little knowledge and see how collaboration works.
-- 🤔 I’m looking for help with: I'm not going to lie, C++ is giving me a run for my money right now. I would say just anything anyone can offer, maybe some tips or tricks that they have learned along the way to make life easier.
-- 💬 Ask me about: I'm a very solid networker, so I have a few people waiting on me to gain knowledge so they can have me do work for them. I am not opposed to pulling someone in on a project, if it means a win-win for both parties.
-- 📫 How to reach me: email would probably be the quickest, JMEllis1@student.fullsail.edu, or jamessmith@freemindset.org
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on: pygame and pycharm
+- 🌱 I’m currently learning: C++, intermediate Python, command line and git
 - ⚡ Fun fact: I love to learn new things!
 <!-- Remember to finish github pages
 -->
